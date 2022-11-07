@@ -1,3 +1,3 @@
-### Exercício EASY
+# Exercício EASY
 
-## 007 - Substituição em Vetor
+### 007 - Substituição em Vetor
